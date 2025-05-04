@@ -29,7 +29,7 @@ FoodSave is a mobile application that helps you save money and reduce food waste
 
 ### Account Selection
 
-![Account Selection](screenshots/account_selection.png)
+![Account Selection](https://github.com/TiberiuTech/FoodSave/blob/main/account_selection.png)
 
 ### Personal Account
 
