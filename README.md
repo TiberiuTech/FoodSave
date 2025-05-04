@@ -25,7 +25,7 @@ FoodSave is a mobile application that helps you save money and reduce food waste
 
 ### Onboarding
 
-![Onboarding](screenshots/onboarding.png)
+![Onboarding](https://github.com/TiberiuTech/FoodSave/blob/main/onboarding.png)
 
 ### Account Selection
 
@@ -33,15 +33,15 @@ FoodSave is a mobile application that helps you save money and reduce food waste
 
 ### Personal Account
 
-![Personal Account](screenshots/personal_account.png)
+![Personal Account](https://github.com/TiberiuTech/FoodSave/blob/main/personal_account.png)
 
 ### Business Account
 
-![Business Account](screenshots/business_account.png)
+![Business Account](https://github.com/TiberiuTech/FoodSave/blob/main/business_account.png)
 
 ### Nearby Offers
 
-![Nearby Offers](screenshots/nearby_offers.png)
+![Nearby Offers](https://github.com/TiberiuTech/FoodSave/blob/main/nearby_offers.png)
 
 ## Getting Started
 
